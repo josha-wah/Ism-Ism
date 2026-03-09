@@ -26,5 +26,5 @@ All entries must have the following information:
 3. Year of Original Publication
 4. Description (not exceeding 200 words)
 5. Availability
-  * Online (if applicable)
-  * Physical (if applicable)
+   1. Online (if applicable)
+   2. Physical (if applicable)
