@@ -1,18 +1,18 @@
-#Ism & Ism: An Open Data Catalogue for Radical Librarians/ Booksellers 
+# Ism & Ism: An Open Data Catalogue for Radical Librarians/ Booksellers 
 
->"[Librarians] are subversive. You think they're just sitting there at the desk, all quiet and everything. They're like plotting the revolution, man. I wouldn't mess with them." - Michael Moore
+> "[Librarians] are subversive. You think they're just sitting there at the desk, all quiet and everything. They're like plotting the revolution, man. I wouldn't mess with them." - Michael Moore
 
-##Introduction
+## Introduction
 
 Since Marx and Bakunin's ideological clash at the First International in 1868, many works have been written and events held that have sought to address the erupting schism. In many cases, these occurrences are titled "Anarchism and Marxism" or "Marxism and Anarchism" depending on the ideological biases of the people involved—first-place supremacy being a seemingly universal linguistic custom. Thus charges of biased misrepresentation are set from the off and we are all none the wiser. 
 
 Ism & Ism then, is a project which seeks to unite these opposing factions in merely cataloguing the elements which make up this discourse, neither privileging one perspective over the other nor equating them as "two sides of the same coin". While we believe this project should prove useful to many, the individual reader included, the emphasis here is on providing the appropriate tools for librarians and booksellers. That is, for we believe that even in the digital era, physical books and their centres of distribution remain a legitimate site of ideological struggle. 
 
-###What is "Open Data"?
+### What is "Open Data"?
 
 The term "open source" describes the practice of distributing software in such a way that it's "source code" is available to the general public for inspection, modification, and redistribution. In this case, we are interested in collecting "data"—the project involving no executable code beyond the formatting syntax of it's README file—but we seek to abide by the same principles. To contribute to the project then, you do NOT need to have any coding experience, only a basic understanding of GitHub, i.e. how to submit an "issue" or "pull request". The former, you would use to offer a question, comment, or suggestion; while with the latter, you can request to merge your own changes into the main repository. I aim to respond to all contributions but consider reading the following section on "cataloguing basics" for a sense of the information we're looking for. 
 
-###Cataloguing Basics
+### Cataloguing Basics
 
 In order to catalogue a new entry, we need to first identify whether it is relevant to any of a series of ongoing disputes between Marxists and Anarchists. 
 
@@ -26,5 +26,5 @@ All entries must have the following information:
 3. Year of Original Publication
 4. Description (not exceeding 200 words)
 5. Availability
-  1. Online (if applicable)
-  2. Physical (if applicable)
+  * Online (if applicable)
+  * Physical (if applicable)
