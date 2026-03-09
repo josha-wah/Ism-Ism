@@ -20,7 +20,7 @@ The challenges here are abundant, starting with the obvious that there are many 
 
 At this stage, I shall not attempt to offer a map of figures or ideas relevant to this space but instead use my best judgement as a student and observer of these movements, and would invite prospective contributors to do the same. In all cases, the relevance of a text to the discourse must be clarified in the description and by neutral descriptive language rather than evaluative judgements. You do NOT need to have read a book cover to cover in order to enter it into the catalogue, in general it will suffice to have read what the book says about itself (i.e. in its introduction or blurb), but you may also look to publishers descriptions or frequently cited quotations. In many cases, it is expected that a description may go through numerous iterations and have individual entries for particular chapters.
 
-All entries must have the following information:
+#### All entries must have the following information:
 1. Author
 2. Title
 3. Year of Original Publication
@@ -28,3 +28,11 @@ All entries must have the following information:
 5. Availability
    1. Online (if applicable)
    2. Physical (if applicable)
+  
+#### For example:  
+Cleaver, Harry  
+33 Lessons on Capital, Reading Marx Politically (2019)  
+
+Availability  
+* Online: [Academia](https://www.academia.edu/44394272/33_Lessons_on_Capital_Reading_Marx_Politically)
+* Physical: [Pluto Press (2019)](https://www.plutobooks.com/product/33-lessons-on-capital/)  
