@@ -31,8 +31,8 @@ At this stage, I shall not attempt to offer a map of figures or ideas relevant t
 
 ## Texts
 
-### Carson, Kevin  
-### Studies in Mutualist Political Economy (2007)  
+#### Carson, Kevin  
+#### Studies in Mutualist Political Economy (2007)  
 
 This book, developing on his previous work and that of early socialist opponents of statism, i.e. Proudhon and Tucker, further establishes Carson as among the foremost contemporary theorists associated with the late 20th century revival of individualist/ mutualist anarchism. As the subject of a symposium in "The Journal of Libertarian Studies", this book sparked controversy for (among other things) Carson's defense of the labor theory of value against its marginalist opponents—a factor which has incited accusations of his being a "Marxist" from the libertarian right. Contrary to Marx, however, Carson argues that the evils of capitalism have their origin in state intervention and that the seizure of state power is not necessary to remedy such. Though Carson's market-friendly vision of post-capitalist society remains controversial among Marxists and social anarchists, aspects of his work and this book in particular have yet been cited favourably by figures such as Iain McKay.
 
@@ -40,8 +40,8 @@ Available
 * Online: [Academia] (https://www.academia.edu/1119048/Studies_in_Mutualist_Political_Economy)
 * Physical: 
 
-### Carson, Kevin  
-### Organization Theory (2008)  
+#### Carson, Kevin  
+#### Organization Theory (2008)  
 
 Following the thread of his last book, Carson focusses his analysis on the large-scale organisation—a feature of the capitalist system he notes as a source of affinity across the ostensibly disparate ideologies of Marxism and Libertarianism. Indeed, quoting the Communist Manifesto, he interprets that the concentration of capital/ centralisation of production is identified by Marx and Engels with the "progressive" role of the bourgeoisie, thus mirroring the association of large scale with efficiency seen among Austrian economists on the right. In Carson's view, these "economies of scale" would be naturally offset by "diseconomies of scale", if the latter were not artificially suppressed by state intervention on behalf of capitalists. Many of the resultant "efficiencies" then are recast in Carson's framework as illusory and originating in political violence. This book also explores what Carson sees as the pathological effects of large organisations, both internally—i.e. as a source of informational and incentive problems—and on society as a whole. Then goes on to propose various conjectures on decentralist free market alternatives.
 
