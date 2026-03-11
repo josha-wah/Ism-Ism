@@ -37,7 +37,7 @@ At this stage, I shall not attempt to offer a map of figures or ideas relevant t
 This book, developing on his previous work and that of early socialist opponents of statism, i.e. Proudhon and Tucker, further establishes Carson as among the foremost contemporary theorists associated with the late 20th century revival of individualist/ mutualist anarchism. As the subject of a symposium in "The Journal of Libertarian Studies", this book sparked controversy for (among other things) Carson's defense of the labor theory of value against its marginalist opponents—a factor which has incited accusations of his being a "Marxist" from the libertarian right. Contrary to Marx, however, Carson argues that the evils of capitalism have their origin in state intervention and that the seizure of state power is not necessary to remedy such. Though Carson's market-friendly vision of post-capitalist society remains controversial among Marxists and social anarchists, aspects of his work and this book in particular have yet been cited favourably by figures such as Iain McKay.
 
 Available  
-* Online: [Academia] (https://www.academia.edu/1119048/Studies_in_Mutualist_Political_Economy)
+* Online: [Academia](https://www.academia.edu/1119048/Studies_in_Mutualist_Political_Economy)
 * Physical: 
 
 #### Carson, Kevin  
