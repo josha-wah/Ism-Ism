@@ -49,8 +49,8 @@ Available
 * Online: [Academia](https://www.academia.edu/1119013/Organization_Theory_A_Libertarian_Perspective)
 * Physical: 
 
-<details><summary>**Carson, Kevin**  
-**The Homebrew Industrial Revolution (2010)**</summary>  
+<details><summary> **Carson, Kevin**  
+**The Homebrew Industrial Revolution (2010)** </summary>  
 
 Leaning on Lewis Mumford's account of technological history, Carson envisions a turning point from which an alternate production model might have taken hold—a low-overhead decentralised economy in lieu of the present landscape dominated by big business. The latter, he argues, proliferated despite its relative inefficiencies due to the state externalising its costs onto society at large. Thus the revolutionary potential of electrical power was thwarted and diverted instead into outdated institutional forms more conducive to the maintenance of a privileged class. Carson calls out Marxists directly as being stuck, alongside the Austrians, in "the paleotechnic age"—blind to the artificiality of the centralised, high-overhead model and the efficiencies it claims for itself. Yet history has not entirely passed by the alternate economy, he tells us, for it develops within the interstices of the old one preparing to supplant it: networked local manufacturing, garage industry, household microenterprises and resilient local economies. This, he positions as both an alternative to the present capitalist economy and the gigantism of the old left.  
 
