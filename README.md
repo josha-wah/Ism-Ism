@@ -27,7 +27,7 @@ Must be under 200 words and clarify the relevance of the text to the discourse b
 <details><summary>Original Text...</summary>
 Online: Links to Online Copies
 Physical: Links to Physical Copies</details>  
-<details><summary>Translator 1...
+<details><summary>Translator 1...</summary>
 Notes on translation
 Online: Links to Online Copies
 Physical: Links to Physical Copies</details>  
