@@ -22,8 +22,8 @@ If you'd like to submit an entry, see the example below for the kind of informat
 
 **Author Name**  
 **Title [Year of Original Publication]**  
-<details><summary>Description 1 (Submitted/ Retrieved by Researcher Name - Institution)...</summary>
-Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists.</details>  
+<details><summary>Description 1...</summary>
+Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists. (*Submitted by Researcher Name - Institution*)</details>  
 <details><summary>Original Text...</summary>
 Online: Links to Online Copies
 Physical: Links to Physical Copies</details>  
