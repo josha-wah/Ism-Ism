@@ -32,17 +32,21 @@ Notes on translation
 Online: Links to Online Copies
 Physical: Links to Physical Copies</details>  
 
+##Contributers
+
+* Joshua Sparrow - Independent Researcher
+
 ## Texts
 
 **Carson, Kevin**  
 **Studies in Mutualist Political Economy (2007)**  
 
 <details><summary>Description...</summary>
-This book, developing on his previous work and that of early socialist opponents of statism, i.e. Proudhon and Tucker, further establishes Carson as among the foremost contemporary theorists associated with the late 20th century revival of individualist/ mutualist anarchism. As the subject of a symposium in "The Journal of Libertarian Studies", this book sparked controversy for (among other things) Carson's defense of the labor theory of value against its marginalist opponents—a factor which has incited accusations of his being a "Marxist" from the libertarian right. Contrary to Marx, however, Carson argues that the evils of capitalism have their origin in state intervention and that the seizure of state power is not necessary to remedy such. Though Carson's market-friendly vision of post-capitalist society remains controversial among Marxists and social anarchists, aspects of his work and this book in particular have been cited favourably by figures such as Iain McKay.</details>
+This book, developing on his previous work and that of early socialist opponents of statism, i.e. Proudhon and Tucker, further establishes Carson as among the foremost contemporary theorists associated with the late 20th century revival of individualist/ mutualist anarchism. As the subject of a symposium in "The Journal of Libertarian Studies", this book sparked controversy for (among other things) Carson's defense of the labor theory of value against its marginalist opponents—a factor which has incited accusations of his being a "Marxist" from the libertarian right. Contrary to Marx, however, Carson argues that the evils of capitalism have their origin in state intervention and that the seizure of state power is not necessary to remedy such. Though Carson's market-friendly vision of post-capitalist society remains controversial among Marxists and social anarchists, aspects of his work and this book in particular have been cited favourably by figures such as Iain McKay. (Submitted by Joshua Sparrow - Independent Researcher)</details>
 
-Available  
-* Online: [Academia](https://www.academia.edu/1119048/Studies_in_Mutualist_Political_Economy)
-* Physical: 
+<details><summary>Original Text...</summary>
+Online: [Academia](https://www.academia.edu/1119048/Studies_in_Mutualist_Political_Economy)
+Physical:</details>  
 
 ___
 
@@ -50,11 +54,11 @@ ___
 **Organization Theory (2008)**  
 
 <details><summary>Description...</summary>
-Following the thread of his last book, Carson focusses his analysis on the large-scale organisation—a feature of the capitalist system he notes as a source of affinity across the ostensibly disparate ideologies of Marxism and Libertarianism. Indeed, quoting the Communist Manifesto, he interprets that the concentration of capital/ centralisation of production is identified by Marx and Engels with the "progressive" role of the bourgeoisie, thus mirroring the association of large scale with efficiency seen among Austrian economists on the right. In Carson's view, these "economies of scale" would be naturally offset by "diseconomies of scale", if the latter were not artificially suppressed by state intervention on behalf of capitalists. Many of the resultant "efficiencies" then are recast in Carson's framework as illusory and originating in political violence. This book also explores what Carson sees as the pathological effects of large organisations, both internally—i.e. as a source of informational and incentive problems—and on society as a whole. He then goes on to propose various conjectures on decentralist free market alternatives.</details>
+Following the thread of his last book, Carson focusses his analysis on the large-scale organisation—a feature of the capitalist system he notes as a source of affinity across the ostensibly disparate ideologies of Marxism and Libertarianism. Indeed, quoting the Communist Manifesto, he interprets that the concentration of capital/ centralisation of production is identified by Marx and Engels with the "progressive" role of the bourgeoisie, thus mirroring the association of large scale with efficiency seen among Austrian economists on the right. In Carson's view, these "economies of scale" would be naturally offset by "diseconomies of scale", if the latter were not artificially suppressed by state intervention on behalf of capitalists. Many of the resultant "efficiencies" then are recast in Carson's framework as illusory and originating in political violence. This book also explores what Carson sees as the pathological effects of large organisations, both internally—i.e. as a source of informational and incentive problems—and on society as a whole. He then goes on to propose various conjectures on decentralist free market alternatives. (Submitted by Joshua Sparrow - Independent Researcher)</details>
 
-Available  
-* Online: [Academia](https://www.academia.edu/1119013/Organization_Theory_A_Libertarian_Perspective)
-* Physical: 
+<details><summary>Original Text...</summary>
+Online: [Academia](https://www.academia.edu/1119013/Organization_Theory_A_Libertarian_Perspective)
+Physical:</details>  
 
 ___
 
@@ -62,9 +66,8 @@ ___
 **The Homebrew Industrial Revolution (2010)**  
 
 <details><summary>Description...</summary>
-Leaning on Lewis Mumford's account of technological history, Carson envisions a turning point from which an alternate production model might have taken hold—a low-overhead decentralised economy in lieu of the present landscape dominated by big business. The latter, he argues, proliferated despite its relative inefficiencies due to the state externalising its costs onto society at large. Thus the revolutionary potential of electrical power was thwarted and diverted instead into outdated institutional forms more conducive to the maintenance of a privileged class. Carson calls out Marxists directly as being stuck, alongside the Austrians, in "the paleotechnic age"—blind to the artificiality of the centralised, high-overhead model and the efficiencies it claims for itself. Yet history has not entirely passed by the alternate economy, he tells us, for it develops within the interstices of the old one preparing to supplant it: networked local manufacturing, garage industry, household microenterprises and resilient local economies. This, he positions as both an alternative to the present capitalist economy and the gigantism of the old left.</details>
+Leaning on Lewis Mumford's account of technological history, Carson envisions a turning point from which an alternate production model might have taken hold—a low-overhead decentralised economy in lieu of the present landscape dominated by big business. The latter, he argues, proliferated despite its relative inefficiencies due to the state externalising its costs onto society at large. Thus the revolutionary potential of electrical power was thwarted and diverted instead into outdated institutional forms more conducive to the maintenance of a privileged class. Carson calls out Marxists directly as being stuck, alongside the Austrians, in "the paleotechnic age"—blind to the artificiality of the centralised, high-overhead model and the efficiencies it claims for itself. Yet history has not entirely passed by the alternate economy, he tells us, for it develops within the interstices of the old one preparing to supplant it: networked local manufacturing, garage industry, household microenterprises and resilient local economies. This, he positions as both an alternative to the present capitalist economy and the gigantism of the old left. (Submitted by Joshua Sparrow - Independent Researcher)</details>
 
-Available  
-* Online:   [Academia](https://www.academia.edu/1119005/The_Homebrew_Industrial_Revolution_A_Low_Overhead_Manifesto)
-* Physical:  
-
+<details><summary>Original Text...</summary>
+Online: [Academia](https://www.academia.edu/1119005/The_Homebrew_Industrial_Revolution_A_Low_Overhead_Manifesto)
+Physical:</details>  
