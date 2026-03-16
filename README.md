@@ -8,26 +8,29 @@ Since Marx and Bakunin's ideological clash at the First International in 1868, m
 
 Ism & Ism then, is a project which seeks to unite these opposing factions in merely cataloguing the elements which make up this discourse, neither privileging one perspective over the other nor equating them as "two sides of the same coin". While we believe this project should prove useful to many, the individual reader included, the emphasis here is on providing the appropriate tools for librarians and booksellers. That is, for we believe that even in the digital era, physical books and their centres of distribution remain an important site of ideological struggle. 
 
-### What is "Open Data"?
+### Why "Open Data"?
 
-The term "open source" describes the practice of distributing software in such a way that it's "source code" is available to the general public for inspection, modification, and redistribution. In this case, we are interested in collecting "data"—the project involving no executable code beyond the formatting syntax of it's markdown files—but we seek to abide by the same principles. To contribute to the project then, you do NOT need to have any coding experience, only a basic understanding of GitHub, i.e. how to submit an "issue" or "pull request". The former, you would use to offer a question, comment, or suggestion; while with the latter, you can request to merge your own changes into the main repository. I aim to respond to all contributions but consider reading the following section on "cataloguing basics" for a sense of the information we're looking for. 
+There are many existing tools for uncovering radical texts and ideas. Indeed, the advent of the internet has revolutionised the discovery process, such that anyone with a laptop or smartphone can share or receive information through the world wide web. Today, ideas that decades earlier you'd have no hope of stumbling into, can come loud as the voice of a major news network through forums and social media. While this has vastly improved the discovery of radicalism, this new paradigm has likewise seen the spread of reactionary thought—a factor which incites demand for centralised regulatory control over certain platforms or the internet itself. 
+
+While thoughts on the above may vary, at least one of the issues that goes beyond the neutrality of this project, is that we should be improving access to political education through participation in the newly decentralised landscape. Certainly, this can mean engagement in forums and social media threads, or channeling ones individual expertise into a more substantial cataloguing of ideas and texts. Yet these venues clearly have their limitations, either as they do not effectively filter out noise, or the information presented reflects/ engages a limited perspective. For worldly applications (i.e. stocking libraries and bookshops), one may also need to conduct research across multiple sources to find the best translations or editions.
+
+This is why a fully "open data" approach to cataloguing is an important next step, allowing us to crowd source both information about radical texts and the noise-filtering required to effectively stock bookshops and libraries. If you'd like to contribute to this project then, you may submit entries either as an "issue" or "pull request"—a guide to cataloguing requirements can be found below. Or else if you'd like to start your own project, you are free to "fork" the repository and redistribute with your own modifications.
 
 ### Cataloguing Basics
 
-In order to catalogue a new entry, we need to first identify whether it is relevant to any of a series of ongoing disputes between Marxists and Anarchists. 
+If you'd like to submit an entry, see the example below for the kind of information we're looking for: 
 
-The challenges here are abundant, starting with the obvious that there are many schools of thought from Orthodox Marxists and Unorthodox Marxists; to Social Anarchists and Market Anarchists; and many more divisions besides. Thus the very concepts considered to be under discussion are not concretely established and one may find nominally Anarchist thinkers issuing ostensibly Marxist proclamations (or vice versa), or even expressing views apparently outside of the established consensus between them. Another complication is that there are figures who are certainly relevant to the discourse yet do not label themselves as Marxists or Anarchists, or else are not generally recognised by the broader movement of which they claim to be a part.
-
-At this stage, I shall not attempt to offer a map of figures or ideas relevant to this space but instead use my best judgement as a student and observer of these movements, and would invite prospective contributors to do the same. In all cases, the relevance of a text to the discourse must be clarified in the description and by neutral descriptive language rather than evaluative judgements. You do NOT need to have read a book cover-to-cover in order to enter it into the catalogue, in general it will suffice to have read what the book says about itself (i.e. in its introduction or blurb), but you may also look to publishers descriptions or frequently cited quotations. In many cases, it is expected that a description may go through numerous versions and that some texts may justify separate entries for different chapters.
-
-#### All entries must have the following information:
-1. Author
-2. Title
-3. Year of Original Publication
-4. Description (not exceeding 200 words)
-5. Availability
-   1. Online (if applicable)
-   2. Physical (if applicable)
+**Author Name**  
+**Title [Year of Original Publication]**  
+<details><summary>Description 1 (Submitted/ Retrieved by Researcher Name - Institution)...</summary>
+Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists.</details>  
+<details><summary>Original Text...</summary>
+Online: Links to Online Copies
+Physical: Links to Physical Copies</details>  
+<details><summary>Translator 1...
+Notes on translation
+Online: Links to Online Copies
+Physical: Links to Physical Copies</details>  
 
 ## Texts
 
