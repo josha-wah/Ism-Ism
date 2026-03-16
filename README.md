@@ -23,7 +23,7 @@ If you'd like to submit an entry, see the example below for the kind of informat
 **Author Name**  
 **Title [Year of Original Publication]**  
 <details><summary>Description 1...</summary>
-Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists. (*Submitted by Researcher Name - Institution*)</details>  
+Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists. (Submitted by Researcher Name - Institution)</details>  
 <details><summary>Original Text...</summary>
 Online: Links to Online Copies
 Physical: Links to Physical Copies</details>  
@@ -45,9 +45,7 @@ Physical: Links to Physical Copies</details>
 This book, developing on his previous work and that of early socialist opponents of statism, i.e. Proudhon and Tucker, further establishes Carson as among the foremost contemporary theorists associated with the late 20th century revival of individualist/ mutualist anarchism. As the subject of a symposium in "The Journal of Libertarian Studies", this book sparked controversy for (among other things) Carson's defense of the labor theory of value against its marginalist opponents—a factor which has incited accusations of his being a "Marxist" from the libertarian right. Contrary to Marx, however, Carson argues that the evils of capitalism have their origin in state intervention and that the seizure of state power is not necessary to remedy such. Though Carson's market-friendly vision of post-capitalist society remains controversial among Marxists and social anarchists, aspects of his work and this book in particular have been cited favourably by figures such as Iain McKay. (Submitted by Joshua Sparrow - Independent Researcher)</details>
 
 <details><summary>Original Text...</summary>
-Online:
-  [Academia](https://www.academia.edu/1119048/Studies_in_Mutualist_Political_Economy)
-
+Online:<a href="https://www.academia.edu/1119048/Studies_in_Mutualist_Political_Economy">Academia</a>
 Physical:</details>  
 
 ___
