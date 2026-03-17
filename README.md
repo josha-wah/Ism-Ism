@@ -30,6 +30,7 @@ Online: Links to Online Copies
 Physical: Links to Physical Copies</details>  
 <details><summary>Translator 1...</summary>
 Notes on translation  
+
 Online: Links to Online Copies  
 
 Physical: Links to Physical Copies</details>  
