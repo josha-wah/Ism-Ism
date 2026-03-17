@@ -25,11 +25,13 @@ If you'd like to submit an entry, see the example below for the kind of informat
 <details><summary>Description 1...</summary>
 Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists. <i>(Submitted by Researcher Name - Institution)</i></details>  
 <details><summary>Original Text...</summary>
-Online: Links to Online Copies
+Online: Links to Online Copies  
+
 Physical: Links to Physical Copies</details>  
 <details><summary>Translator 1...</summary>
-Notes on translation
-Online: Links to Online Copies
+Notes on translation  
+Online: Links to Online Copies  
+
 Physical: Links to Physical Copies</details>  
 
 ## Contributers
