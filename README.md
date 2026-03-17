@@ -6,7 +6,7 @@
 
 Since Marx and Bakunin's ideological clash at the First International in 1868, many works have been written and events held that have sought to address the erupting schism. In many cases, these occurrences are titled "Anarchism and Marxism" or "Marxism and Anarchism" depending on the ideological biases of the people involved—first-place supremacy being a seemingly universal linguistic custom. Thus charges of biased misrepresentation are set from the off and we are all none the wiser. 
 
-Ism & Ism then, is a project which seeks to unite these opposing factions in merely cataloguing the elements which make up this discourse, neither privileging one perspective over the other nor equating them as "two sides of the same coin". While we believe this project should prove useful to many, the individual reader included, the emphasis here is on providing the appropriate tools for librarians and booksellers. That is, for we believe that even in the digital era, physical books and their centres of distribution remain an important site of ideological struggle. 
+Ism & Ism then, is a project which seeks to unite these opposing factions in merely cataloguing the elements which make up this discourse, neither privileging one perspective over the other nor equating them as "two sides of the same coin". While we expect this project should prove useful to many, the individual reader included, the emphasis here is on providing the appropriate tools for librarians and booksellers. That is, for we believe that even in the digital era, physical books and their centres of distribution remain an important site of ideological struggle. 
 
 ### Why "Open Data"?
 
@@ -18,12 +18,12 @@ This is why a fully "open data" approach to cataloguing is an important next ste
 
 ### Cataloguing Basics
 
-If you'd like to submit an entry, see the example below for the kind of information we're looking for: 
+If you'd like to submit an entry, see the example below for the kind of information we're looking for. Please note that in this early phase of the project my editorship intends to be very loose, so if you write an entry in accord with this criteria then it will almost certainly be included and you'll be credited as a contributer: 
 
 **Author Name**  
 **Title [Year of Original Publication]**  
 <details><summary>Description 1...</summary>
-Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists. (Submitted by Researcher Name - Institution)</details>  
+Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists. <i>(Submitted by Researcher Name - Institution)</i></details>  
 <details><summary>Original Text...</summary>
 Online: Links to Online Copies
 Physical: Links to Physical Copies</details>  
