@@ -1,3 +1,46 @@
+
+<style>
+details {
+  border-block-end: 1px solid #000;
+  margin-block: .5rem;
+  padding-block: .5rem;
+}
+
+summary {
+  position: relative;
+  anchor-name: --summary;
+  text-decoration-line: underline;
+
+  &::marker {
+    content: "";
+  }
+  
+  &::before,
+  &::after {
+    content: "";
+    border-block-start: 3px solid white;
+    height: 0;
+    width: 1rem;
+    
+    inset-block-start: 50%;
+    inset-inline-end: 0;
+    
+    position: absolute;
+    position-anchor: --summary;
+    position-area: top end;
+  }
+  
+  &::after {
+    transform: rotate(90deg);
+    transform-origin: 50%;
+  }
+}
+
+details[open] summary::after {
+  transform: rotate(0deg);
+}
+</style>
+
 # Ism & Ism: An Open Data Catalogue for Radical Librarians and Booksellers 
 
 > "[Librarians] are subversive. You think they're just sitting there at the desk, all quiet and everything. They're like plotting the revolution, man. I wouldn't mess with them." - Michael Moore
@@ -10,34 +53,29 @@ Ism & Ism then, is a project which seeks to unite these opposing factions in mer
 
 ### Why "Open Data"?
 
-There are many existing tools for uncovering radical texts and ideas. Indeed, the advent of the internet has revolutionised the discovery process, such that anyone with a laptop or smartphone can share or receive information through the world wide web. Today, ideas that decades earlier you'd have no hope of stumbling into, can come loud as the voice of a major news network through forums and social media. While this has vastly improved the discovery of radicalism, this new paradigm has likewise seen the spread of reactionary thought—a factor which incites demand for centralised regulatory control over certain platforms or the internet itself. 
+The advent of the internet has revolutionised the discovery process for radicalism. Today, ideas that decades earlier you might have no hope of stumbling into, can come loud as the voice of a major news network through forums and social media. Yet these venues clearly have their limitations, either as they do not effectively filter out noise, or the information presented has a tendency to reflect/ engage a limited perspective. This is where bookshops and libraries are traditionally made to excel and from whence they derive their enduring appeal. Yet they too are subject to bottlenecking around the available knowledge of their members or capacity to channel that knowledge into decisions.
 
-While thoughts on the above may vary, at least one of the issues that goes beyond the neutrality of this project, is that we should be improving access to political education through participation in the newly decentralised landscape. Certainly, this can mean engagement in forums and social media threads, or channeling ones individual expertise into a more substantial cataloguing of ideas and texts. Yet these venues clearly have their limitations, either as they do not effectively filter out noise, or the information presented reflects/ engages a limited perspective. For worldly applications (i.e. stocking libraries and bookshops), one may also need to conduct research across multiple sources to find the best translations or editions.
-
-This is why a fully "open data" approach to cataloguing is an important next step, allowing us to crowd source both information about radical texts and the noise-filtering required to effectively stock bookshops and libraries. If you'd like to contribute to this project then, you may submit entries either as an "issue" or "pull request"—a guide to cataloguing requirements can be found below. Or else if you'd like to start your own project, you are free to "fork" the repository and redistribute with your own modifications.
+This is why it's important to create tools for such organisations to inform them about what books to stock, recommended translations/ editions, and what aspects of a given text to emphasise in promotional content. Though cataloguing efforts might be nothing new—there being plenty of existing in-house and supplier documentation—it is through commons-based peer production that we will outperform them and lay down the future foundation of bookselling. For it is only in this way that we can effectively harness and bring to bear the fullest range of knowledge. In other words, we aim here to provide a map of radical literature through the most radical mode of production there is.
 
 ### Cataloguing Basics
 
-If you'd like to submit an entry, see the example below for the kind of information we're looking for. Please note that in this early phase of the project my editorship intends to be very loose, so if you write an entry in accord with this criteria then it will almost certainly be included and you'll be credited as a contributer: 
+If you'd like to contribute to this project, you may submit entries either as an "issue" or "pull request"—see the example below for cataloguing requirements. Also note that in this early phase of the project my editorship intends to be very loose, so if you write an entry in accord with this criteria then it will almost certainly be included and you'll be credited as a contributer:
 
 **Author Name**  
-**Title [Year of Original Publication]**  
+**Title [Year of Original Publication]**
 <details><summary>Description 1...</summary>
-Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists. <i>(Submitted by Researcher Name - Institution)</i></details>  
+Must be under 200 words and clarify the relevance of the text to the discourse between Marxists and Anarchists.<br><i>(Submitted by Researcher Name)</i></details>
 <details><summary>Original Text...</summary>
-Online: Links to Online Copies  
-
+Online: Links to Online Copies<br>
 Physical: Links to Physical Copies</details>  
-<details><summary>Translator 1...</summary>
-Notes on translation  
-
-Online: Links to Online Copies  
-
+<details><summary>Translation 1...</summary>
+Notes on translation<br>
+Online: Links to Online Copies<br>
 Physical: Links to Physical Copies</details>  
 
 ## Contributers
 
-* Joshua Sparrow - Independent Researcher
+* Joshua Sparrow (Editor) — <a href="https://linktr.ee/josha_wah">@Josha-Wah</a>
 
 ## Texts
 
@@ -45,14 +83,12 @@ Physical: Links to Physical Copies</details>
 **Studies in Mutualist Political Economy [2007]**  
 
 <details><summary>Description...</summary>
-This book, developing on his previous work and that of early socialist opponents of statism, i.e. Proudhon and Tucker, further establishes Carson as among the foremost contemporary theorists associated with the late 20th century revival of individualist/ mutualist anarchism. As the subject of a symposium in "The Journal of Libertarian Studies", this book sparked controversy for (among other things) Carson's defense of the labor theory of value against its marginalist opponents—a factor which has incited accusations of his being a "Marxist" from the libertarian right. Contrary to Marx, however, Carson argues that the evils of capitalism have their origin in state intervention and that the seizure of state power is not necessary to remedy such. Though Carson's market-friendly vision of post-capitalist society remains controversial among Marxists and social anarchists, aspects of his work and this book in particular have been cited favourably by figures such as Iain McKay. 
-
-<i>(Submitted by Joshua Sparrow - Independent Researcher)</i></details>
+This book, developing on his previous work and that of early socialist opponents of statism, i.e. Proudhon and Tucker, further establishes Carson as among the foremost contemporary theorists associated with the late 20th century revival of individualist/ mutualist anarchism. As the subject of a symposium in "The Journal of Libertarian Studies", this book sparked controversy for (among other things) Carson's defense of the labor theory of value against its marginalist opponents—a factor which has incited accusations of his being a "Marxist" from the libertarian right. Contrary to Marx, however, Carson argues that the evils of capitalism have their origin in state intervention and that the seizure of state power is not necessary to remedy such. Though Carson's market-friendly vision of post-capitalist society remains controversial among Marxists and social anarchists, aspects of his work and this book in particular have been cited favourably by figures such as Iain McKay.<br><i>(Submitted by Joshua Sparrow)</i></details>
 
 <details><summary>Original Text...</summary>
-Online: <a href="https://www.academia.edu/1119048/Studies_in_Mutualist_Political_Economy">Academia</a>  
-
-Physical:</details>  
+Online: <a href="https://www.academia.edu/1119048/Studies_in_Mutualist_Political_Economy">Academia</a><br>
+Physical: <a href="https://store.c4ss.org/index.php/product/studies-in-mutualist-political-economy/">C4SS Store (US Only)</a>, <a href="https://amzn.eu/d/0aC8EkbK">Amazon</a>
+</details>  
 
 ___
 
@@ -60,14 +96,12 @@ ___
 **Organization Theory [2008]**  
 
 <details><summary>Description...</summary>
-Following the thread of his last book, Carson focusses his analysis on the large-scale organisation—a feature of the capitalist system he notes as a source of affinity across the ostensibly disparate ideologies of Marxism and Libertarianism. Indeed, quoting the Communist Manifesto, he interprets that the concentration of capital/ centralisation of production is identified by Marx and Engels with the "progressive" role of the bourgeoisie, thus mirroring the association of large scale with efficiency seen among Austrian economists on the right. In Carson's view, these "economies of scale" would be naturally offset by "diseconomies of scale", if the latter were not artificially suppressed by state intervention on behalf of capitalists. Many of the resultant "efficiencies" then are recast in Carson's framework as illusory and originating in political violence. This book also explores what Carson sees as the pathological effects of large organisations, both internally—i.e. as a source of informational and incentive problems—and on society as a whole. He then goes on to propose various conjectures on decentralist free market alternatives. 
-
-<i>(Submitted by Joshua Sparrow - Independent Researcher)</i></details>
+Following the thread of his last book, Carson focusses his analysis on the large-scale organisation—a feature of the capitalist system he notes as a source of affinity across the ostensibly disparate ideologies of Marxism and Libertarianism. Indeed, quoting the Communist Manifesto, he interprets that the concentration of capital/ centralisation of production is identified by Marx and Engels with the "progressive" role of the bourgeoisie, thus mirroring the association of large scale with efficiency seen among Austrian economists on the right. In Carson's view, these "economies of scale" would be naturally offset by "diseconomies of scale", if the latter were not artificially suppressed by state intervention on behalf of capitalists. Many of the resultant "efficiencies" then are recast in Carson's framework as illusory and originating in political violence. This book also explores what Carson sees as the pathological effects of large organisations, both internally—i.e. as a source of informational and incentive problems—and on society as a whole. He then goes on to propose various conjectures on decentralist free market alternatives.<br><i>(Submitted by Joshua Sparrow)</i></details>
 
 <details><summary>Original Text...</summary>
-Online: <a href="https://www.academia.edu/1119013/Organization_Theory_A_Libertarian_Perspective">Academia</a>  
-
-Physical:</details>  
+Online: <a href="https://www.academia.edu/1119013/Organization_Theory_A_Libertarian_Perspective">Academia</a>  <br>
+Physical: <a href="https://store.c4ss.org/index.php/product/organization-theory/">C4SS Store (US Only)</a>, <a href="https://amzn.eu/d/0bss9kfU">Amazon</a>
+</details>  
 
 ___
 
@@ -75,11 +109,38 @@ ___
 **The Homebrew Industrial Revolution [2010]**  
 
 <details><summary>Description...</summary>
-Leaning on Lewis Mumford's account of technological history, Carson envisions a turning point from which an alternate production model might have taken hold—a low-overhead decentralised economy in lieu of the present landscape dominated by big business. The latter, he argues, proliferated despite its relative inefficiencies due to the state externalising its costs onto society at large. Thus the revolutionary potential of electrical power was thwarted and diverted instead into outdated institutional forms more conducive to the maintenance of a privileged class. Carson calls out Marxists directly as being stuck, alongside the Austrians, in "the paleotechnic age"—blind to the artificiality of the centralised, high-overhead model and the efficiencies it claims for itself. Yet history has not entirely passed by the alternate economy, he tells us, for it develops within the interstices of the old one preparing to supplant it: networked local manufacturing, garage industry, household microenterprises and resilient local economies. This, he positions as both an alternative to the present capitalist economy and the gigantism of the old left. 
-
-<i>(Submitted by Joshua Sparrow - Independent Researcher)</i></details>
+Leaning on Lewis Mumford's account of technological history, Carson envisions a turning point from which an alternate production model might have taken hold—a low-overhead decentralised economy in lieu of the present landscape dominated by big business. The latter, he argues, proliferated despite its relative inefficiencies due to the state externalising its costs onto society at large. Thus the revolutionary potential of electrical power was thwarted and diverted instead into outdated institutional forms more conducive to the maintenance of a privileged class. Carson calls out Marxists directly as being stuck, alongside the Austrians, in "the paleotechnic age"—blind to the artificiality of the centralised, high-overhead model and the efficiencies it claims for itself. Yet history has not entirely passed by the alternate economy, he tells us, for it develops within the interstices of the old one preparing to supplant it: networked local manufacturing, garage industry, household microenterprises and resilient local economies. This, he positions as both an alternative to the present capitalist economy and the gigantism of the old left.
+<br><i>(Submitted by Joshua Sparrow)</i></details>
 
 <details><summary>Original Text...</summary>
-Online: <a href="https://www.academia.edu/1119005/The_Homebrew_Industrial_Revolution_A_Low_Overhead_Manifesto">Academia</a>  
+Online: <a href="https://www.academia.edu/1119005/The_Homebrew_Industrial_Revolution_A_Low_Overhead_Manifesto">Academia</a><br>
+Physical: <a href="https://store.c4ss.org/index.php/product/the-homebrew-industrial-revolution/">C4SS Store (US Only)</a>, <a href="https://amzn.eu/d/0ivlKVPa">Amazon</a>
+</details>  
 
-Physical:</details>  
+___
+
+**Carson, Kevin**  
+**The Desktop Regulatory State [2016]**
+
+<details><summary>Description...</summary>
+Writing in 2016, Kevin Carson reflects on the dramatic shift in recent decades across modes of production for both material and immaterial goods. The widespread availability of desktop computers, coupled with internet access, has driven a trend towards the growing obsolescence of large, highly capitalized, hierarchical organisations—and perhaps of discrete organisations whatsoever. Rather, the emergent mode of production starting to take hold is that of networked individuals in patterns of "stigmergic" coordination. In other words, a trend towards complex social problem solving for minimal cost and without need for leaders or vanguard institutions. Indeed, contrary to rigid stage-based accounts of history, we appear to exist not within capitalism as a monolithic unity but amidst a collection of mutually interacting social formations. For Carson, hierarchical organisations—whether referring to the corporation, soviet planning committee, or neoliberal state—are systematically stupid in a way that cannot be counteracted by other such organisations, nor need be supplanted by a monolithic unity of progressive forces. Instead, it is primarily within individuals and networks that Carson perceives both the organisational basis of post-capitalist society and the steps we must take to get there.
+<br><i>(Submitted by Joshua Sparrow)</i>
+</details>
+
+<details><summary>Original Text...</summary>
+Online: <a href="https://www.academia.edu/1144226/The_Desktop_Regulatory_State_The_Countervailing_Power_of_Individuals_and_Networks">Academia</a><br>
+Physical: <a href="https://store.c4ss.org/index.php/product/the-desktop-regulatory-state/">C4SS Store (US Only)</a>, <a href="https://amzn.eu/d/0d21llT6">Amazon</a></details>  
+
+___
+
+**Miroslav, Frank**  
+**We Don't Agree on Capitalism [2024]**
+
+<details><summary>Description...</summary>
+In this essay, Miroslav argues against the prevailing notion that Anarchists and Marxists necessarily share an assessment of what capitalism is—merely disagreeing on how best to fight it. Rather, he suggests that Anarchism and Marxism are capable of emphasizing dramatically different vulnerabilities in capitalism which in turn foster different strategic orientations. This, despite anarchist intellectuals like Bookchin and Zerzan failing to centre questions of agency in their theories, which he deems central to a distinctly anarchist assessment of capitalism. For Miroslav, systems of domination render subpar outcomes even for those in positions of power, because they optimize primarily for control over efficiency. As such, capitalism is both dependent on its symbiotic relationship with the state and riddled with inefficiencies and potential exploits, which offer critical points of leverage on par or exceeding mass movements.
+<br><i>(Submitted by Joshua Sparrow)</i>
+</details>
+
+<details><summary>Original Text...</summary>
+Online: <a href="https://theanarchistlibrary.org/library/frank-miroslav-we-don-t-agree-on-capitalism-demarcating-the-red-and-black">Anarchist Library</a><br>
+Physical: <a href="https://zinelibrary.org/we-dont-agree-on-capitalism.html">Zine Library (Printable Zine)</a></details>
