@@ -102,33 +102,3 @@ In this essay, Miroslav argues against the prevailing notion that Anarchists and
 Online: <a href="https://theanarchistlibrary.org/library/frank-miroslav-we-don-t-agree-on-capitalism-demarcating-the-red-and-black">Anarchist Library</a><br>
 Physical: <a href="https://zinelibrary.org/we-dont-agree-on-capitalism.html">Zine Library (Printable Zine)</a></details>
 
-
-
-
-<google-sheets-html-origin style=""><table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" cellpadding="0" dir="ltr" border="1" data-sheets-root="1" data-sheets-baot="1" style="table-layout: fixed; font-size: 10pt; font-family: Arial; width: 0px; border-collapse: collapse; border-width: medium; border-style: none; border-color: currentcolor; border-image: initial;">
-  <thead>
-    <tr style="height: 21px;">
-      <th>Name</th>
-      <th>Specialty</th>
-      <th>Location</th>
-      <th>Website</th>
-      <th>Notes</th>
-      <th>Third-Parties</th>
-    </tr>
-  </thead><colgroup><col width="100"><col width="100"><col width="100"><col width="100"><col width="100"><col width="205"></colgroup>
-  <tbody>
-    <tr style="height: 21px;">
-      <td rowspan="2" colspan="1" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;"><div style="max-height: 42px;">AK Press</div></td>
-      <td rowspan="2" colspan="1" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 42px;">Anarchist, Radical Left</div></td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">Edinburgh, UK</td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">UK Site</td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-decoration: underline; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.akuk.com/ordering-info.html#:~:text=what%20it%20costs.-,TRADE%20ORDER,-Order%20by%20email" target="_blank">"Trade Order"</a></td>
-      <td rowspan="2" colspan="1" style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top; overflow-wrap: break-word;"><div style="max-height: 42px;">Ingram, Consortium, PGC, Turnaround, Kersplebedeb</div></td>
-    </tr>
-    <tr style="height: 21px;">
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">California, US</td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: top;">US Site</td>
-      <td style="border: 1px solid rgb(204, 204, 204); overflow: hidden; padding: 2px 3px; vertical-align: bottom; text-decoration: underline; color: rgb(17, 85, 204);"><a class="in-cell-link" href="https://www.akpress.org/wholesale.html#:~:text=Wholesale%20Information-,WHOLESALE%20%26%20TRADE%20TERMS,-Wholesale%20%26%20Trade%20Terms" target="_blank">"Wholesale and Trade Terms"</a></td>
-    </tr>
-  </tbody>
-</table></google-sheets-html-origin>
