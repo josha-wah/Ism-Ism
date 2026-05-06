@@ -6,7 +6,7 @@
 
 Since Marx and Bakunin's ideological clash at the First International in 1868, many works have been written and events held that have sought to address the erupting schism. In many cases, these occurrences are titled "Anarchism and Marxism" or "Marxism and Anarchism" depending on the ideological biases of the people involved—first-place supremacy being a seemingly universal linguistic custom. Thus charges of biased misrepresentation are set from the off and we are all none the wiser.
 
-Ism & Ism then, is a project which seeks to unite these opposing factions in cataloguing the elements which make up this discourse, neither privileging one perspective over the other nor equating them as "two sides of the same coin". In truth, the approach we intend to take here might best be described as meta-ideological, for though we may speak of ideologies in general terms for rhetorical purposes, our deeper commitment is to revealing a more fine-grained account of the discourse.
+Ism & Ism then, is a project which seeks to unite these opposing factions in merely cataloguing the elements which make up this discourse, neither privileging one perspective over the other nor equating them as "two sides of the same coin". In truth, the approach we intend to take here might best be described as meta-ideological, for though we may at times speak of ideologies in general terms, we should moreso like to embrace that they are not well-defined sets of ideas in a set theoretic sense. That is, as people do not agree on what constitutes each ideology, we know that boundaries must expand and contract to accommodate the full range of perspectives.
 
 Furthermore, while we expect this project should prove useful to many, the individual reader included, the emphasis here is on providing the appropriate tools for librarians and booksellers. That is, for we believe that even in the digital era, physical books and their distributive projects remain an important site of ideological struggle.
 
@@ -27,7 +27,7 @@ For radicals interfacing with the industry then—be that as authors, consumers,
 3. Normalise copy-left licensing or otherwise maintaining data portability/ paths of exit in contractual arrangements.
 4. Invest in local manufacturing efforts such as printing your own zines or commissioning radical and community printshops.
 
-[Note: This is a lot of information to get straight and errors are expected. If you spot an issue—be that a broken link, oversight, or omission, etc.—then please let me know. That's what peer production is all about!]
+[Note: The following directory gives us a lot of information to get straight and errors are expected. If you spot an issue—be that a broken link, oversight, or omission, etc.—then please let me know. That's what peer production is all about!]
 
 ### Ordering Systems
 
@@ -749,9 +749,11 @@ For radicals interfacing with the industry then—be that as authors, consumers,
 
 ## Text Catalogue
 
-### Entry Format
+This next part of the project involves a cataloguing of individual texts in relation to the discourse between Anarchists and Marxists. Though currently very sparse, the potential of this endeavour should speak volumes if one regards this a healthy discourse to promote and participate in. And though catalogues already exist to inform librarians and booksellers, it is the mission-driven/ non-commercial nature of this mapping which intends to set it apart.
 
 If you'd like to contribute to this project, you may submit entries or suggest edits for existing ones either as an "issue" or "pull request"—see the example below for cataloguing requirements:
+
+### Entry Format
 
 **Author Name**  
 **Title [Year of Original Publication]**
