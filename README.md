@@ -2,6 +2,13 @@
 
 > "[Librarians] are subversive. You think they're just sitting there at the desk, all quiet and everything. They're like plotting the revolution, man. I wouldn't mess with them." - Michael Moore
 
+## Contents
+
+* [Introduction](#introduction)
+* [Why "Open Data"?](#why-open-data)
+* [Publisher Directory](#publisher-directory)
+* [Text Catalogue](#text-catalogue)
+
 ## Introduction
 
 Since Marx and Bakunin's ideological clash at the First International in 1868, many works have been written and events held that have sought to address the erupting schism. In many cases, these occurrences are titled "Anarchism and Marxism" or "Marxism and Anarchism" depending on the ideological biases of the people involved—first-place supremacy being a seemingly universal linguistic custom. Thus charges of biased misrepresentation are set from the off and we are all none the wiser.
